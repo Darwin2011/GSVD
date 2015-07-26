@@ -12,5 +12,6 @@ Given the SVD of an m×n real or complex matrix M
 
 M = U * S * V
 where U.T * W * U = V.T * Y * V = I.
+
 I is the Identity Matrix and where U and V are orthonormal given their constraints.
-Additionally, W_u and W_v are positive definite matrices (often diagonal matrices of weights). 
+Additionally, W and Y are positive definite matrices (often diagonal matrices of weights). 
